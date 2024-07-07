@@ -1,0 +1,6 @@
+0 * * * * /home/reda/Desktop/BERKANI_Redha/download.sh
+0 0 * * * /home/reda/anaconda3/bin/python /home/reda/Desktop/BERKANI_Redha/resume.py
+0 0 1 * * /home/reda/anaconda3/bin/python /home/reda/Desktop/BERKANI_Redha/report.py
+
+
+

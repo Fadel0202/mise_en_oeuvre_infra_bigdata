@@ -1,0 +1,12 @@
+name: Mini-projet
+title: Mini-projet
+username: fadel0202
+account: fadel0202
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11352123
+bundleId: 8306892
+url: https://fadel0202.shinyapps.io/Mini-projet/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

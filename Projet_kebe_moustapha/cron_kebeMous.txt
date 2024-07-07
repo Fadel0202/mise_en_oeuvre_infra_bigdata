@@ -1,0 +1,3 @@
+0 0 * * * /home/kebe/CodesScriptsKebeMoustapha/extract_with_bash.sh
+1 0 * * * /home/kebe/CodesScriptsKebeMoustapha/storage_In_Mongodb.py
+2 0 * * * /home/kebe/CodesScriptsKebeMoustapha/rapport_analyse.py

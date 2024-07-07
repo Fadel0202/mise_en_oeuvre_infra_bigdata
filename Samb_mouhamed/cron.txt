@@ -1,0 +1,3 @@
+0 9-20 * * * /home/fadel/sysds/Mini-projet/Samb_mouhamed/recup_data.sh
+1 9-20 * * * /home/fadel/sysds/Mini-projet/Samb_mouhamed/resume_data.py
+
